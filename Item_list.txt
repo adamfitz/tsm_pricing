@@ -1,0 +1,27 @@
+Primal Fire:21884
+Primal shadow:22456
+Primal Water:21885
+Anchor Weed:152510
+Siren's Pollen:152509
+River Bud:152505
+Sea Stalk:152511
+Akunda's Bite:152507
+Star Moss:152506
+Winter's Kiss:152508
+Storm Silver Ore:
+Monelite Ore:
+Platinum Ore:
+Khorium Ore:
+Tiragarde Perch:152548
+Slimy Mackerel:152544
+Frenzied Fangtooth:152545
+Redtail Loach:152549
+Lane Snapper:152546
+Great Sea Catfish:152547
+Sand Shifter:152543
+Briny Flesh:152631
+Meaty Haunch:154898
+Stringy Loins:154897
+Thick Paleo Steak:154899
+Deep Sea Bag:154695
+Embroidered Deep Sea Bag:154696
