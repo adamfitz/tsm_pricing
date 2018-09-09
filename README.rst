@@ -1,5 +1,5 @@
-tsm_pricing script
-==================
+wow tsm script
+===============
 
 Script to grab the auction house average and realm pricing data for a specific list of items.
 
